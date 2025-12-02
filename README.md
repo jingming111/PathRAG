@@ -180,9 +180,7 @@ Please cite our paper if you use this code in your own work:
 @article{chen2025pathrag,
     title={PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths}, 
     author={Boyu Chen and Zirui Guo and Zidan Yang and Yuluo Chen and Junze Chen and Zhenghao Liu and Chuan Shi and Cheng Yang},
-    year={2025},
-    eprint={2502.14902},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}, 
+    journal={arXiv preprint arXiv:2502.14902},
+    year={2025}
 }
 ```
