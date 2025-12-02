@@ -20,11 +20,11 @@ cd PathRAG
 pip install -e .
 ```
 ## Quick Start
-- use OpenAI API key 
-* You can quickly experience this project in the `v1_test.py` file.
-* Set OpenAI API key in environment if using OpenAI models: `api_key="sk-...".` in the `v1_test.py` and `llm.py` file
-* Prepare your retrieval document "text.txt".
-* Use the following Python snippet in the `v1_test.py` file to initialize PathRAG and perform queries.
+- use OpenAI API key
+- You can quickly experience this project in the `v1_test.py` file.
+- Set OpenAI API key in environment if using OpenAI models: `api_key="sk-...".` in the `v1_test.py` and `llm.py` file
+- Prepare your retrieval document "text.txt".
+-  Use the following Python snippet in the `v1_test.py` file to initialize PathRAG and perform queries.
   
 ```python
 import os
